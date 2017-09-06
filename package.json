@@ -1,0 +1,23 @@
+{
+  "name": "myrepo",
+  "version": "1.0.0",
+  "description": "myRepo",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshMoncada/myRepo.git"
+  },
+  "author": "Josh Moncada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshMoncada/myRepo/issues"
+  },
+  "homepage": "https://github.com/JoshMoncada/myRepo#readme"
+}
